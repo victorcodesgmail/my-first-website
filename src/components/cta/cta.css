@@ -1,0 +1,71 @@
+.video{
+    width: 300px; /* Set the desired width and height for your circular camera feed */
+  height: 300px;
+  border-radius: 50%; /* Use border-radius to create a circular shape*/
+  overflow: hidden;
+  align-self: centre;
+  justify-content: center;
+  padding: auto;
+} 
+
+input{
+    margin: 20px;
+    padding: 30px;
+  
+  }
+  /* Students.css */
+
+/* Styling for the container div */
+ div {
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+  } 
+  
+  /* Styling for headings */
+  h1 {
+    font-size: 24px;
+    color: #333;
+  }
+  
+  h2 {
+    font-size: 20px;
+    color: #666;
+  }
+  
+  /* Styling for input fields */
+  /input[type="text"],
+  input[type="email"] {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  } 
+  
+  /* Styling for buttons */
+   button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  } */
+  
+  /* Styling for links */
+   a {
+    text-decoration: none;
+    color: #007bff;
+  } */
+  
+  /* Styling for the video element */
+   #cameraFeed {
+    width: 100%;
+    max-width: 400px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin: 10px auto;
+    display: block;
+  } 
+   
